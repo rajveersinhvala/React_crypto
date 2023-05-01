@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_crypto/static/css/main.2a035522.css",
+    "main.js": "/React_crypto/static/js/main.b1b3e6a4.js",
+    "static/media/btc.png": "/React_crypto/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/React_crypto/index.html",
+    "main.2a035522.css.map": "/React_crypto/static/css/main.2a035522.css.map",
+    "main.b1b3e6a4.js.map": "/React_crypto/static/js/main.b1b3e6a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a035522.css",
+    "static/js/main.b1b3e6a4.js"
+  ]
+}
